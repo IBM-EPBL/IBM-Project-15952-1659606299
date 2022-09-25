@@ -44,7 +44,7 @@ Personal finance applications will ask users to add their expenses and based on 
 
 ## PROBLEM STATEMENTS :
 
-   - [PROBLEM STATEMENTS]()
+   - [PROBLEM STATEMENTS](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Problem%20Statements.pdf)
 
 
 
