@@ -19,18 +19,35 @@ Personal finance applications will ask users to add their expenses and based on 
 
 
 ## 🔗 LINKS
-- DARSHANA M          [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Lead) 
-- RADHIKA R     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%201)
-- RAJESHWARI SOMASUNDARAM       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%202)
-- SHREE OLIMATHI D     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%203)
+- DARSHANA M               [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/tree/main/ASSIGNMENTS/Team_Leader) 
+- RADHIKA R                [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/tree/main/ASSIGNMENTS/Team_Member%201)
+- RAJESHWARI SOMASUNDARAM  [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/tree/main/ASSIGNMENTS/Team_Member%202)
+- SHREE OLIMATHI D         [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/tree/main/ASSIGNMENTS/Team_Member%203)
 
 
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map%20Canvas.pdf)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Empathy_Map.pdf)
 
 
 ## BRAINSTORMING - IDEA GENERATION :
 
-   - [BRAINSTORMING](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation%20Template.pdf)
+   - [BRAINSTORMING]()
+
+
+
+## LITERATURE SURVEY :
+
+   - [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/LITERATURE%20SURVEY.pdf)
+
+
+## PROBLEM STATEMENTS :
+
+   - [PROBLEM STATEMENTS]()
+
+
+
+## PROPOSED SOLUTION :
+
+   - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
