@@ -33,7 +33,7 @@ Personal finance applications will ask users to add their expenses and based on 
 
 ## BRAINSTORMING - IDEA GENERATION :
 
-   - [BRAINSTORMING]()
+   - [BRAINSTORMING](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Brainstorming.pdf)
 
 
 
