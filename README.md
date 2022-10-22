@@ -52,6 +52,3 @@ Personal finance applications will ask users to add their expenses and based on 
 
    - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
    
- ## CUSTOMER JOURNEY :
-    -[CUSTOMER JOURNEY](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Customer%20Journey%20Map.pdf)
-   
