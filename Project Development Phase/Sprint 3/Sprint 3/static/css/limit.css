@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    background-image:  linear-gradient(60deg, #6eabf0 0%, #80aede 100%);
+}
+
+.limits{
+    padding-left: 43%;
+    padding-top: 15%;
+}

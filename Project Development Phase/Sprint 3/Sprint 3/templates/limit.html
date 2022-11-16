@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block body %} 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="stylesheet" href="..\static\css\limit.css">
+  <title>Limit-Setup</title>
+</head>
+<div class="limits">
+<p> Currently your MONTHLY limit is ₹ {{y}} </p>
+
+
+<form action="/limitnum" method="POST">
+    <p> ENTER the MONTHLY LIMIT to avoid over EXPENSES</p> <br/>
+    <input type="number" name="number" required/> <span> 
+        <button class="btn btn-warning" type="submit">ENTER</button>
+    </span>
+    </div>
+    
+
+
+
+</form>
+{% endblock %}
