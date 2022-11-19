@@ -53,7 +53,7 @@ Personal finance applications will ask users to add their expenses and based on 
    - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-159521659606299/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf) 
    
    ## SPRINT 1- SPRINT 4:
-   -[SPRINTS](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/tree/main/Project%20Development%20Phase)
+   - [SPRINTS](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/tree/main/Project%20Development%20Phase)
  
  ## VIDEO LINK :
  - [PROJECT DEMO VIDEO](https://drive.google.com/file/d/1C_vCihD9L-bofFG-at4WqcTNM5wcFH9M/view?usp=sharing)
