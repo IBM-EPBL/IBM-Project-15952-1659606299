@@ -29,6 +29,9 @@ Personal finance applications will ask users to add their expenses and based on 
 ## EMPATHY MAP CANVAS :
 
    - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15952-1659606299/blob/main/Project%20Design%20%26%20Planning/Ideation_Phase/Empathy_Map.pdf)
+   
+ ## VIDEO LINK :
+       - [FINAL DEMO VIDEO](https://drive.google.com/file/d/1C_vCihD9L-bofFG-at4WqcTNM5wcFH9M/view?usp=sharing)
 
 
 ## BRAINSTORMING - IDEA GENERATION :
